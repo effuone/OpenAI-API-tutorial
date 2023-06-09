@@ -10,7 +10,7 @@ The repository serves as a guide for beginners who want to learn how to integrat
 
 #### 1. Clone this project
 ```bash
-  git clone https://github.com/effuone/OpenAI-API-tutorial.git
+  git clone https://github.com/effuone/openai-api-tutorial.git
 ```
 #### 2. Navigate the project directory
 ```bash
